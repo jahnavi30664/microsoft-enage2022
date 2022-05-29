@@ -1,7 +1,7 @@
 # microsoft-enage2022
 
-
-step-1: Cloning 
+Process to run this application:
+step-1:
  git clone https://github.com/jahnavi30664/microsoft-enage2022
 
 step-2:

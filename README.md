@@ -1,21 +1,30 @@
 # microsoft-enage2022
 
 Process to run this application:
-step-1:
- git clone https://github.com/jahnavi30664/microsoft-enage2022
+
+step-1: Cloning
+
+git clone https://github.com/jahnavi30664/microsoft-enage2022
 
 step-2:
+
 Open the project in visual studio code
 
 step-3: installing requirements using pip
+
 pip install -r requirements.txt
 
 step-4: 
   1)Now login to azure portal 
+  
      Services we use :
+     
           1)Azure FaceAPI
+          
           2)Azure postgres
+          
           3)Azure blob
+          
           4)App services
 
   2)create a postgres server with public access and allow azure services. Enable Allow public access from Azure service within Azure to this server
